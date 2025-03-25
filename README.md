@@ -1,1 +1,2 @@
 # Netflix-Data-Analysis-using-SQL
+This project explores Netflix's content library using SQL, uncovering trends in content distribution, regional dominance, and genre popularity. Key analyses include Movies vs. TV Shows, most common ratings, top content-producing countries, leading actors, and release patterns in India. The project also categorizes content based on keywords, duration, and missing data, offering valuable insights into Netflix’s content landscape.
